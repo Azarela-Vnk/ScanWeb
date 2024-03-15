@@ -32,3 +32,8 @@ Kontribusi dalam bentuk permintaan tarik sangat dipersilakan. Untuk saran, kriti
 ## Lisensi
 
 Distributed under the MIT License. Lihat `LICENSE` untuk informasi lebih lanjut.
+
+## Disclaimer
+> [!NOTE]
+> Attacking web-server is illegal without prior mutual consent. The end user is responsible and obeys all applicable laws.
+> Developers assume no liability and are not responsible for any misuse or damage caused by this program.

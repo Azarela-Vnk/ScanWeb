@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://open.spotify.com/track/5rRAOgZOAqHwUMwVAXkUYU?si=66_j1Qi3SWWI4yJLNQVQcQ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
+  
 # Scan Web
 
 ScanWeb adalah tools sederhana yang memungkinkan pengguna untuk melakukan scanning pada website dengan mudah, ScanWeb sudah dibekali dengan codingan tingkat lanjut, jadi pengguna hanya perlu melakukan ./start untuk menjalankan tools.

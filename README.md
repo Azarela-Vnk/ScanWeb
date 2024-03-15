@@ -13,13 +13,19 @@
   <a href="https://open.spotify.com/track/5rRAOgZOAqHwUMwVAXkUYU?si=66_j1Qi3SWWI4yJLNQVQcQ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
   
-# Scan Web
+# Web Scanner
 
-ScanWeb adalah tools sederhana yang memungkinkan pengguna untuk melakukan scanning pada website dengan mudah, ScanWeb sudah dibekali dengan codingan tingkat lanjut, jadi pengguna hanya perlu melakukan ./start untuk menjalankan tools.
+Selamat datang di Web Scanner! Ini adalah alat pemindaian web yang kuat yang dirancang untuk membantu Anda menemukan dan mengidentifikasi potensi masalah keamanan pada situs web.
 
-## Perkenalan
+## Tentang
 
-Tools ini dibangun dengan Python. Pengguna dapat dengan mudah menjalankan tools tanpa perlu menginstall module module tambahan.
+Web Scanner adalah alat sumber terbuka yang dibangun dengan Python untuk melakukan pemindaian terhadap situs web dengan tujuan meningkatkan keamanan mereka. Alat ini menggunakan berbagai teknik pemindaian dan analisis untuk mendeteksi kerentanan, celah keamanan, atau masalah lain yang mungkin terjadi pada situs web Anda.
+
+## Fitur Utama
+
+- **Pemindaian Otomatis:** Alat ini secara otomatis melakukan pemindaian situs web Anda untuk mengidentifikasi berbagai masalah keamanan yang mungkin terjadi, seperti kerentanan terhadap serangan XSS, CSRF, dan lainnya.
+- **Laporan Detil:** Setelah pemindaian selesai, Web Scanner akan menyajikan laporan yang terperinci dan mudah dimengerti.
+- **Kustomisasi:** Alat ini memungkinkan Anda untuk menyesuaikan parameter pemindaian sesuai kebutuhan Anda, sehingga Anda dapat memilih area mana yang akan dipindai dan bagaimana cara memprioritaskan hasil pemindaian.
 
 ## Cara Install
 

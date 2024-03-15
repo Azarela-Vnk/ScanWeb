@@ -18,7 +18,7 @@ Tools ini dibangun dengan Python. Pengguna dapat dengan mudah menjalankan tools 
 ## Cara Menjalankan Aplikasi
 
 1. Buka terminal/command prompt.
-2. Masuk ke direktori proyek Powerful Hashing Tool.
+2. Masuk ke direktori proyek ScanWeb, lalu pilih file linux, di menu ini ada opsi aarch64 dan x86_64, kalian bebas pilih apa aja.
 3. Jalankan aplikasi dengan menjalankan perintah:
 
     ```

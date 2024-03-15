@@ -23,9 +23,12 @@ Web Scanner adalah alat sumber terbuka yang dibangun dengan Python untuk melakuk
 
 ## Fitur Utama
 
-- **Pemindaian Otomatis:** Alat ini secara otomatis melakukan pemindaian situs web Anda untuk mengidentifikasi berbagai masalah keamanan yang mungkin terjadi, seperti kerentanan terhadap serangan XSS, CSRF, dan lainnya.
+- **Pemindaian CMS Otomatis:** Alat ini secara otomatis melakukan pemindaian situs web Anda untuk mengidentifikasi CMS yang di gunakan pada Website.
 - **Laporan Detil:** Setelah pemindaian selesai, Web Scanner akan menyajikan laporan yang terperinci dan mudah dimengerti.
 - **Kustomisasi:** Alat ini memungkinkan Anda untuk menyesuaikan parameter pemindaian sesuai kebutuhan Anda, sehingga Anda dapat memilih area mana yang akan dipindai dan bagaimana cara memprioritaskan hasil pemindaian.
+- **Port Scanner:** Tools ini menyajikan port scanner, Anda dapat memilih opsi scan all port dan port tertentu yang ingin anda scan, kelebihan **Port Scanner** kami adalah pemindaian yang cepat terutama pada scan port tertentu.
+- **DNS Lookup:** Alat ini juga menyertakan fitur DNS Lookup yang memungkinkan Anda untuk mengonfirmasi informasi DNS seperti alamat IP terkait dengan nama domain, atau mencari informasi lain yang terkait dengan domain tertentu.
+- **WordPress Scanner:** Web Scanner juga mencakup fitur pemindaian khusus untuk situs web berbasis WordPress. Fitur ini memungkinkan Anda untuk mendeteksi kerentanan atau masalah keamanan yang khusus terkait dengan instalasi WordPress, dan dapat mengambil username WordPress jika ada.
 
 ## Cara Install
 

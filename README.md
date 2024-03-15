@@ -42,7 +42,7 @@ Web Scanner adalah alat sumber terbuka yang dibangun dengan Python untuk melakuk
 ## Cara Menjalankan Aplikasi
 
 1. Buka terminal/command prompt.
-2. Masuk ke direktori proyek ScanWeb, lalu pilih file linux, di menu ini ada opsi aarch64 dan x86_64, kalian bebas pilih apa aja.
+2. Masuk ke direktori proyek ScanWeb, lalu pilih file linux, di menu ini ada opsi aarch64 dan x86_64, kalian pilih sesuai device anda, misal menggunakan aarch64 berarti gunakan aarch64.
 3. Jalankan aplikasi dengan menjalankan perintah:
 
     ```
